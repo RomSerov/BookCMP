@@ -25,3 +25,5 @@ To run the application on iPhone device/simulator:
 Run iOS simulator UI tests: `./gradlew :composeApp:iosSimulatorArm64Test`
 
 ![screen1](https://github.com/RomSerov/BookCMP/blob/main/screen1.png)
+
+![screen2](https://github.com/RomSerov/BookCMP/blob/main/screen2.png)
